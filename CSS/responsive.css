@@ -10,7 +10,7 @@
     #sidenav{
         position: absolute;
         width: 15rem;
-        height: 100vh;
+        height: calc(100vh - 3rem);
         z-index: 3;
         display: none;
         padding-top: 0;
